@@ -39,7 +39,7 @@ const ApproachImpact = () => {
 
   return (
     <>
-    <div className="approach-container flex flex-col md:flex-row justify-between items-center py-12 px-6 bg-gray-100">
+    <div className="approach-container flex flex-col md:flex-row justify-between items-center py-12 px-6 pb-6 bg-gray-100">
       <div className="content-left flex flex-col md:w-1/2 text-left mb-8 md:mb-0">
         <h1 className="text-3xl text-gray-800 font-bold mb-4">Our Approach</h1>
         <p className="ttext-gray-600 text-lg text-justify md:pr-8 leading-relaxed">
