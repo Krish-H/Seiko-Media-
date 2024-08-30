@@ -24,7 +24,7 @@ const Call = () => {
   }, []);
 
   return (
-    <div className="call-container flex flex-col md:flex-row items-center justify-center bg-blue-50 p-6 mt-6 md:mt-0 md:p-8 rounded-lg shadow-lg max-w-5xl mx-auto my-8 md:my-12">
+    <div className="call-container flex flex-col md:flex-row items-center justify-center bg-blue-50 p-6 mt-[6rem] md:mt-0 md:p-8 rounded-lg shadow-lg max-w-5xl mx-auto my-8 md:my-12">
       <div className="w-24 h-24 md:w-32 md:h-32 flex items-center justify-center bg-[#F6BD60] rounded-full shadow-md">
         <FontAwesomeIcon icon={faPhone} className="text-white text-3xl md:text-4xl" />
       </div>

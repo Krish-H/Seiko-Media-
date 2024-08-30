@@ -25,7 +25,7 @@ const Hero = () => {
           <h1 className="text-[#1E2A38] text-4xl md:text-5xl font-bold pt-[5rem] mb-6">
             Who We Are
           </h1>
-          <p className="text-[#333333] text-justify pr-5 pt-10 font-semibold text-lg md:text-[1.2rem] leading-relaxed">
+          <p className="text-[#333333] text-justify pr-0 md:pr-5 pt-10 font-semibold text-lg md:text-[1.2rem] leading-relaxed">
             &ldquo;At Seiko Media, we are pioneers in the eCommerce space, committed to helping direct-to-consumer brands scale rapidly and profitably. With a data-driven approach and a passion for innovation, we craft high-converting websites, dynamic ad campaigns, and comprehensive multi-channel strategies that drive results. Our mission is to empower brands to reach their full potential in the digital marketplace.&rdquo;
           </p>
         </div>
